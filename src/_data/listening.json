@@ -1,0 +1,234 @@
+[
+  {
+    "slug": "manon-lescaut",
+    "title": "Manon Lescaut",
+    "composer": "Giacomo Puccini",
+    "color": "rose",
+    "number": "01",
+    "clips": [
+      {
+        "title": "Donna non vidi mai",
+        "act": "I",
+        "role": "Des Grieux · tenor",
+        "artist": "Luciano Pavarotti",
+        "ensemble": "National Philharmonic Orchestra · Oliviero de Fabritiis",
+        "type": "Audio",
+        "video": "EHTNmvntk8Y",
+        "note": "La fascinación del primer encuentro. Escucha cómo la frase se expande hasta convertir el asombro en una declaración de amor."
+      },
+      {
+        "title": "Sola, perduta, abbandonata",
+        "act": "IV",
+        "role": "Manon · soprano",
+        "artist": "Anna Netrebko",
+        "ensemble": "Orchestra dell’Accademia Nazionale di Santa Cecilia · Antonio Pappano",
+        "type": "Audio",
+        "video": "gQEKAKl3Rzw",
+        "note": "El reverso de aquel primer deslumbramiento: una voz aislada y una orquesta que hace palpable el agotamiento. Contiene el clima del desenlace."
+      }
+    ]
+  },
+  {
+    "slug": "las-bodas-de-figaro",
+    "title": "Las bodas de Fígaro",
+    "composer": "Wolfgang Amadeus Mozart",
+    "color": "gold",
+    "number": "02",
+    "clips": [
+      {
+        "title": "Voi che sapete",
+        "act": "II",
+        "role": "Cherubino · mezzosoprano",
+        "artist": "Cecilia Bartoli",
+        "ensemble": "Wiener Philharmoniker · Claudio Abbado",
+        "type": "Audio",
+        "video": "4bhKOjDjNpQ",
+        "note": "Una pregunta adolescente sobre el amor, sostenida por una melodía de aparente sencillez. Atiende a la mezcla de timidez y urgencia."
+      },
+      {
+        "title": "Dove sono",
+        "act": "III",
+        "role": "La Condesa · soprano",
+        "artist": "Hallveig Rúnarsdóttir",
+        "ensemble": "Iceland Symphony Orchestra · Bjarni Frímann Bjarnason",
+        "type": "Concierto",
+        "video": "uV4UXaYfhJ8",
+        "note": "La nostalgia se transforma poco a poco en decisión. El cambio de impulso entre las dos partes cuenta tanto como las palabras."
+      }
+    ]
+  },
+  {
+    "slug": "simon-boccanegra",
+    "title": "Simon Boccanegra",
+    "composer": "Giuseppe Verdi",
+    "color": "sea",
+    "number": "03",
+    "clips": [
+      {
+        "title": "Il lacerato spirito",
+        "act": "Prólogo",
+        "role": "Fiesco · bajo",
+        "artist": "Ildar Abdrazakov",
+        "ensemble": "Orchestre Métropolitain · Yannick Nézet-Séguin",
+        "type": "Audio",
+        "video": "egk79mPgexE",
+        "note": "Una plegaria de duelo en el registro grave. Escucha el contraste entre la contención de Fiesco y la presencia del coro."
+      },
+      {
+        "title": "Come in quest’ora bruna",
+        "act": "I",
+        "role": "Amelia · soprano",
+        "artist": "Mirella Freni",
+        "ensemble": "Orchestra del Teatro alla Scala · Claudio Abbado",
+        "type": "Audio",
+        "video": "C9fyC-fcNjo",
+        "note": "El amanecer junto al mar abre un espacio de intimidad en medio del drama político. La línea vocal parece respirar con el paisaje."
+      }
+    ]
+  },
+  {
+    "slug": "fedora",
+    "title": "Fedora",
+    "composer": "Umberto Giordano",
+    "color": "rose",
+    "number": "04",
+    "clips": [
+      {
+        "title": "Amor ti vieta",
+        "act": "II",
+        "role": "Loris · tenor",
+        "artist": "Luciano Pavarotti",
+        "ensemble": "National Philharmonic Orchestra · Oliviero de Fabritiis",
+        "type": "Audio",
+        "video": "-RhobSPIfkY",
+        "note": "Una declaración diminuta y arrolladora: Giordano concentra toda la temperatura del verismo en una melodía que pide un solo gran aliento."
+      },
+      {
+        "title": "Son gente risoluta… Su questa santa croce",
+        "act": "I",
+        "role": "Fedora · soprano",
+        "artist": "Angela Gheorghiu",
+        "ensemble": "Orchestre Symphonique de la Monnaie · Alberto Veronesi",
+        "type": "Audio",
+        "video": "PMgXhvl5SM4",
+        "note": "Del recitado al juramento: sigue cómo la tensión dramática se concentra en la voz de Fedora y en los acentos de la orquesta."
+      }
+    ]
+  },
+  {
+    "slug": "katia-kabanova",
+    "title": "Katia Kabanová",
+    "composer": "Leoš Janáček",
+    "color": "sea",
+    "number": "05",
+    "clips": [
+      {
+        "title": "Nikoho tu není!",
+        "act": "II",
+        "role": "Kudrjáš · tenor",
+        "artist": "Zdeněk Švehla",
+        "ensemble": "Wiener Philharmoniker · Charles Mackerras",
+        "type": "Audio",
+        "video": "8uNlp5UtTzc",
+        "note": "Un respiro nocturno antes del encuentro de los amantes. El canto de Kudrjáš deja oír la cercanía de Janáček a la canción popular."
+      },
+      {
+        "title": "Jste to vy, Katěrino Petrovno?",
+        "act": "II",
+        "role": "Katia y Boris · dúo",
+        "artist": "Elisabeth Söderström y Peter Dvorský",
+        "ensemble": "Wiener Philharmoniker · Charles Mackerras",
+        "type": "Audio · dúo",
+        "video": "3zfGlqA72mg",
+        "note": "La conversación vacilante se convierte en abandono amoroso. Aquí la emoción nace de pequeñas frases y de la tensión que acumula la orquesta."
+      }
+    ]
+  },
+  {
+    "slug": "norma",
+    "title": "Norma",
+    "composer": "Vincenzo Bellini",
+    "color": "gold",
+    "number": "06",
+    "clips": [
+      {
+        "title": "Casta diva",
+        "act": "I",
+        "role": "Norma · soprano",
+        "artist": "Maria Callas",
+        "ensemble": "Orchestre de l’Opéra de Paris · Georges Sébastian · 1958",
+        "type": "Actuación histórica",
+        "video": "s-TwMfgaDC8",
+        "note": "La plegaria suspendida sobre la orquesta. Escucha el arco de la frase y la manera de dar sentido al texto sin romper la serenidad del canto."
+      },
+      {
+        "title": "Mira, o Norma",
+        "act": "II",
+        "role": "Norma y Adalgisa · dúo",
+        "artist": "Joan Sutherland y Marilyn Horne",
+        "ensemble": "The Ed Sullivan Show · 1970",
+        "type": "Actuación televisiva · dúo",
+        "video": "sUp5dStaAaQ",
+        "note": "Dos voces que se sostienen y se entrelazan. Una puerta de entrada al bel canto a través del diálogo, la afinación y el aliento compartido."
+      }
+    ]
+  },
+  {
+    "slug": "tannhauser",
+    "title": "Tannhäuser",
+    "composer": "Richard Wagner",
+    "color": "sea",
+    "number": "07",
+    "clips": [
+      {
+        "title": "Dich, teure Halle",
+        "act": "II",
+        "role": "Elisabeth · soprano",
+        "artist": "Elza van den Heever",
+        "ensemble": "Metropolitan Opera · Donald Runnicles · 2023–24",
+        "type": "Fragmento escénico",
+        "video": "EnmjIzaZf0A",
+        "note": "El regreso de la esperanza tiene forma de saludo jubiloso. El fragmento permite escuchar el brillo de Elisabeth y el empuje de la orquesta."
+      },
+      {
+        "title": "O du mein holder Abendstern",
+        "act": "III",
+        "role": "Wolfram · barítono",
+        "artist": "Christian Gerhaher",
+        "ensemble": "Metropolitan Opera · Donald Runnicles · 2023–24",
+        "type": "Fragmento escénico",
+        "video": "tbLlg5QBHmc",
+        "note": "La canción a la estrella vespertina: intimidad y claridad de palabra dentro del gran mundo wagneriano. Fíjate en la delicadeza del acompañamiento."
+      }
+    ]
+  },
+  {
+    "slug": "el-barbero-de-sevilla",
+    "title": "El barbero de Sevilla",
+    "composer": "Gioachino Rossini",
+    "color": "gold",
+    "number": "08",
+    "clips": [
+      {
+        "title": "Largo al factotum",
+        "act": "I",
+        "role": "Figaro · barítono",
+        "artist": "Leo Nucci",
+        "ensemble": "Orchestra del Teatro Comunale di Bologna · Giuseppe Patanè",
+        "type": "Audio",
+        "video": "5tExGp0pi0Y",
+        "note": "Figaro se presenta como el motor de Sevilla. Ritmo, articulación y una energía verbal que convierte cada repetición en un nuevo gesto."
+      },
+      {
+        "title": "Una voce poco fa",
+        "act": "I",
+        "role": "Rosina · mezzosoprano",
+        "artist": "Teresa Berganza",
+        "ensemble": "London Symphony Orchestra · Claudio Abbado",
+        "type": "Audio",
+        "video": "fU71MvGMfVk",
+        "note": "Rosina combina dulzura y determinación. Las agilidades no son solo adorno: revelan una inteligencia que ya está organizando la trama."
+      }
+    ]
+  }
+]
