@@ -1,0 +1,307 @@
+[
+  {
+    "slug": "manon-lescaut",
+    "title": "Manon Lescaut",
+    "composer": "Giacomo Puccini",
+    "language": "Italiano",
+    "lang": "it",
+    "credit": "Víctor Navarro Feria · digitalización, 1999",
+    "embed": "https://www.el-atril.com/Libretos/Puccini/Manon%20Lescaut%C2%A0.htm",
+    "acts": [
+      {
+        "id": "acto-i",
+        "name": "Acto I",
+        "setting": "Amiens · el encuentro",
+        "url": "http://www.kareol.es/obras/manonlescaut/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/manonlescaut/acto1.htm#:~:text=ACTO%20PRIMERO",
+        "note": "Des Grieux conoce a Manon antes de que la conduzcan al convento. La huida convierte la atracción en una decisión irreversible."
+      },
+      {
+        "id": "acto-ii",
+        "name": "Acto II",
+        "setting": "París · el lujo",
+        "url": "http://www.kareol.es/obras/manonlescaut/acto2.htm",
+        "jumpUrl": "http://www.kareol.es/obras/manonlescaut/acto2.htm#:~:text=ACTO%20SEGUNDO",
+        "note": "En casa de Geronte, Manon descubre el precio de la comodidad. El regreso de Des Grieux precipita el intento de fuga."
+      },
+      {
+        "id": "acto-iii",
+        "name": "Acto III",
+        "setting": "Le Havre · la deportación",
+        "url": "http://www.kareol.es/obras/manonlescaut/acto3.htm",
+        "jumpUrl": "http://www.kareol.es/obras/manonlescaut/acto3.htm#:~:text=ACTO%20TERCERO",
+        "note": "El puerto y la lista de deportadas transforman el drama íntimo en una escena pública. Des Grieux suplica acompañar a Manon."
+      },
+      {
+        "id": "acto-iv",
+        "name": "Acto IV",
+        "setting": "Luisiana · el desierto",
+        "url": "http://www.kareol.es/obras/manonlescaut/acto3.htm",
+        "jumpUrl": "http://www.kareol.es/obras/manonlescaut/acto3.htm#:~:text=ACTO%20CUARTO",
+        "note": "Los amantes están solos y exhaustos. El lenguaje se desnuda hasta la despedida final."
+      }
+    ],
+    "sourceName": "Kareol",
+    "notice": "La edición de origen reúne los actos III y IV en una misma página."
+  },
+  {
+    "slug": "las-bodas-de-figaro",
+    "title": "Las bodas de Fígaro",
+    "composer": "Wolfgang Amadeus Mozart",
+    "language": "Italiano",
+    "lang": "it",
+    "credit": "Rafael Torregrosa Sánchez · digitalización y adaptación, 2000",
+    "embed": "https://www.el-atril.com/Libretos/Mozart/figaro.htm",
+    "acts": [
+      {
+        "id": "acto-i",
+        "name": "Acto I",
+        "setting": "La habitación de los novios",
+        "url": "http://www.kareol.es/obras/lasbodasdefigaro/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/lasbodasdefigaro/acto1.htm#:~:text=ACTO%20PRIMERO",
+        "note": "Una habitación y una cama por medir revelan el desequilibrio entre criados y señores. Fígaro comprende las intenciones del conde."
+      },
+      {
+        "id": "acto-ii",
+        "name": "Acto II",
+        "setting": "El cuarto de la condesa",
+        "url": "http://www.kareol.es/obras/lasbodasdefigaro/acto2.htm",
+        "jumpUrl": "http://www.kareol.es/obras/lasbodasdefigaro/acto2.htm#:~:text=ACTO%20SEGUNDO",
+        "note": "Un disfraz, un armario cerrado y una ventana producen una cadena de sospechas. En el final del acto cada nueva llegada cambia la situación."
+      },
+      {
+        "id": "acto-iii",
+        "name": "Acto III",
+        "setting": "El salón del castillo",
+        "url": "http://www.kareol.es/obras/lasbodasdefigaro/acto3.htm",
+        "jumpUrl": "http://www.kareol.es/obras/lasbodasdefigaro/acto3.htm#:~:text=ACTO%20TERCERO",
+        "note": "Los contratos, los parentescos y una carta dictada entre mujeres vuelven a ordenar las alianzas. La boda parece por fin posible."
+      },
+      {
+        "id": "acto-iv",
+        "name": "Acto IV",
+        "setting": "El jardín de noche",
+        "url": "http://www.kareol.es/obras/lasbodasdefigaro/acto4.htm",
+        "jumpUrl": "http://www.kareol.es/obras/lasbodasdefigaro/acto4.htm#:~:text=ACTO%20CUARTO",
+        "note": "Los vestidos intercambiados y la oscuridad ponen a prueba la confianza. El reconocimiento final conduce a la petición de perdón."
+      }
+    ],
+    "sourceName": "Kareol",
+    "notice": ""
+  },
+  {
+    "slug": "simon-boccanegra",
+    "title": "Simon Boccanegra",
+    "composer": "Giuseppe Verdi",
+    "language": "Italiano",
+    "lang": "it",
+    "credit": "Kareol · edición bilingüe",
+    "embed": "https://www.el-atril.com/Libretos/Verdi/Bocanegra.htm",
+    "acts": [
+      {
+        "id": "prologo",
+        "name": "Prólogo",
+        "setting": "Génova · la elección",
+        "url": "http://www.kareol.es/obras/simonbocanegra/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/simonbocanegra/acto1.htm#:~:text=PR%C3%93LOGO",
+        "note": "Simon acepta entrar en la política mientras su vida privada se desmorona. Fiesco y él quedan unidos por una pérdida y una búsqueda."
+      },
+      {
+        "id": "acto-i",
+        "name": "Acto I",
+        "setting": "Veinticinco años después",
+        "url": "http://www.kareol.es/obras/simonbocanegra/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/simonbocanegra/acto1.htm#:~:text=ACTO%20PRIMERO",
+        "note": "El encuentro entre Amelia y Simon abre la posibilidad del reconocimiento. La escena del Consejo enfrenta el deseo de paz a las facciones de la ciudad."
+      },
+      {
+        "id": "acto-ii",
+        "name": "Acto II",
+        "setting": "El palacio del dux",
+        "url": "http://www.kareol.es/obras/simonbocanegra/acto2.htm",
+        "jumpUrl": "http://www.kareol.es/obras/simonbocanegra/acto2.htm#:~:text=ACTO%20SEGUNDO",
+        "note": "Paolo prepara su venganza y alimenta los celos de Adorno. La verdad familiar modifica el sentido de las sospechas."
+      },
+      {
+        "id": "acto-iii",
+        "name": "Acto III",
+        "setting": "El mar y la reconciliación",
+        "url": "http://www.kareol.es/obras/simonbocanegra/acto2.htm",
+        "jumpUrl": "http://www.kareol.es/obras/simonbocanegra/acto2.htm#:~:text=ACTO%20TERCERO",
+        "note": "La amenaza política se resuelve cuando la vida de Simon llega a su fin. El encuentro con Fiesco permite una reconciliación tardía."
+      }
+    ],
+    "sourceName": "Kareol",
+    "notice": "La edición reúne prólogo y acto I en una página, y actos II y III en otra. Los accesos señalan el pasaje cuando el navegador admite enlaces de texto."
+  },
+  {
+    "slug": "fedora",
+    "title": "Fedora",
+    "composer": "Umberto Giordano",
+    "language": "Italiano",
+    "lang": "it",
+    "credit": "María del Mar Huete · digitalización y traducción, 2003",
+    "embed": null,
+    "acts": [
+      {
+        "id": "acto-i",
+        "name": "Acto I",
+        "setting": "San Petersburgo · la investigación",
+        "url": "http://www.kareol.es/obras/fedora/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/fedora/acto1.htm#:~:text=ACTO%20I",
+        "note": "Fedora encuentra moribundo a su prometido. El interrogatorio de los testigos convierte a Loris en el objetivo de su venganza."
+      },
+      {
+        "id": "acto-ii",
+        "name": "Acto II",
+        "setting": "París · la confesión",
+        "url": "http://www.kareol.es/obras/fedora/acto2.htm",
+        "jumpUrl": "http://www.kareol.es/obras/fedora/acto2.htm#:~:text=ACTO%20II",
+        "note": "En el salón de Fedora, el coqueteo y la investigación se confunden. La confesión de Loris cambia el significado del crimen."
+      },
+      {
+        "id": "acto-iii",
+        "name": "Acto III",
+        "setting": "Suiza · las consecuencias",
+        "url": "http://www.kareol.es/obras/fedora/acto3.htm",
+        "jumpUrl": "http://www.kareol.es/obras/fedora/acto3.htm#:~:text=ACTO%20III",
+        "note": "La llegada de noticias desde Rusia revela el alcance de la denuncia. El amor debe enfrentarse al daño ya causado."
+      }
+    ],
+    "sourceName": "Kareol",
+    "notice": ""
+  },
+  {
+    "slug": "katia-kabanova",
+    "title": "Katia Kabanová",
+    "composer": "Leoš Janáček",
+    "language": "Checo",
+    "lang": "cs",
+    "credit": "José Luís Roviaro · digitalización y traducción, 2014",
+    "embed": null,
+    "acts": [
+      {
+        "id": "acto-i",
+        "name": "Acto I",
+        "setting": "La casa y el Volga",
+        "url": "http://www.kareol.es/obras/katiakabanova/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/katiakabanova/acto1.htm#:~:text=PRIMER%20ACTO",
+        "note": "El paisaje abierto del río contrasta con la autoridad doméstica de Kabanicha. Katia recuerda su infancia y teme quedarse sola."
+      },
+      {
+        "id": "acto-ii",
+        "name": "Acto II",
+        "setting": "La llave y el encuentro",
+        "url": "http://www.kareol.es/obras/katiakabanova/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/katiakabanova/acto1.htm#:~:text=ACTO%20SEGUNDO",
+        "note": "Varvara abre la posibilidad de una escapada. La noche ofrece a Katia una libertad que no encuentra en su casa."
+      },
+      {
+        "id": "acto-iii",
+        "name": "Acto III",
+        "setting": "La tormenta y el regreso al río",
+        "url": "http://www.kareol.es/obras/katiakabanova/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/katiakabanova/acto1.htm#:~:text=ACTO%20TERCERO",
+        "note": "La tormenta desencadena la confesión. El último encuentro de los amantes deja a Katia frente a su aislamiento."
+      }
+    ],
+    "sourceName": "Kareol",
+    "notice": "La edición contiene los tres actos en una sola página. Los enlaces intentan situarte en el acto elegido; si tu navegador no lo permite, busca su encabezado en la edición."
+  },
+  {
+    "slug": "norma",
+    "title": "Norma",
+    "composer": "Vincenzo Bellini",
+    "language": "Italiano",
+    "lang": "it",
+    "credit": "Rafael Torregrosa Sánchez · digitalización y adaptación, 2000",
+    "embed": "https://www.el-atril.com/Libretos/Bellini/norma.htm",
+    "acts": [
+      {
+        "id": "acto-i",
+        "name": "Acto I",
+        "setting": "La arboleda sagrada",
+        "url": "http://www.kareol.es/obras/norma/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/norma/acto1.htm#:~:text=ACTO%20PRIMERO",
+        "note": "La sacerdotisa sostiene públicamente la paz mientras oculta su amor por un romano. La confesión de Adalgisa revela la identidad del hombre que las une."
+      },
+      {
+        "id": "acto-ii",
+        "name": "Acto II",
+        "setting": "La decisión de Norma",
+        "url": "http://www.kareol.es/obras/norma/acto2.htm",
+        "jumpUrl": "http://www.kareol.es/obras/norma/acto2.htm#:~:text=ACTO%20SEGUNDO",
+        "note": "La solidaridad entre las dos mujeres cambia el rumbo del conflicto. El enfrentamiento con Pollione lleva a Norma a decidir qué verdad hará pública."
+      }
+    ],
+    "sourceName": "Kareol",
+    "notice": ""
+  },
+  {
+    "slug": "tannhauser",
+    "title": "Tannhäuser",
+    "composer": "Richard Wagner",
+    "language": "Alemán",
+    "lang": "de",
+    "credit": "Rafael Torregrosa Sánchez · digitalización y traducción, 1999",
+    "embed": "https://www.el-atril.com/Libretos/Wagner/Tanhauser.htm",
+    "acts": [
+      {
+        "id": "acto-i",
+        "name": "Acto I",
+        "setting": "El Venusberg y el valle",
+        "url": "http://www.kareol.es/obras/tannhauser/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/tannhauser/acto1.htm#:~:text=ACTO%20PRIMERO",
+        "note": "Tannhäuser abandona a Venus y regresa al mundo de los hombres. El recuerdo de Elisabeth lo conduce de nuevo a la Wartburg."
+      },
+      {
+        "id": "acto-ii",
+        "name": "Acto II",
+        "setting": "El concurso de canto",
+        "url": "http://www.kareol.es/obras/tannhauser/acto2.htm",
+        "jumpUrl": "http://www.kareol.es/obras/tannhauser/acto2.htm#:~:text=ACTO%20SEGUNDO",
+        "note": "Las distintas ideas del amor se convierten en una disputa pública. Elisabeth interviene cuando el canto de Tannhäuser escandaliza a los caballeros."
+      },
+      {
+        "id": "acto-iii",
+        "name": "Acto III",
+        "setting": "El regreso de Roma",
+        "url": "http://www.kareol.es/obras/tannhauser/acto3.htm",
+        "jumpUrl": "http://www.kareol.es/obras/tannhauser/acto3.htm#:~:text=ACTO%20TERCERO",
+        "note": "La espera de Elisabeth, la canción de Wolfram y el relato de la peregrinación conducen al desenlace. Consulta la versión musical de cada producción: puede haber variantes."
+      }
+    ],
+    "sourceName": "Kareol",
+    "notice": ""
+  },
+  {
+    "slug": "el-barbero-de-sevilla",
+    "title": "El barbero de Sevilla",
+    "composer": "Gioachino Rossini",
+    "language": "Italiano",
+    "lang": "it",
+    "credit": "Julio Perales Díaz · digitalización, 1998",
+    "embed": "https://www.el-atril.com/Libretos/Rossini/barbero.htm",
+    "acts": [
+      {
+        "id": "acto-i",
+        "name": "Acto I",
+        "setting": "La serenata y los disfraces",
+        "url": "http://www.kareol.es/obras/elbarberodesevilla/acto1.htm",
+        "jumpUrl": "http://www.kareol.es/obras/elbarberodesevilla/acto1.htm#:~:text=ACTO%20I",
+        "note": "La serenata de Almaviva y la entrada de Fígaro ponen en marcha el plan. Rosina responde con sus propias iniciativas a la vigilancia de Bartolo.",
+        "continuation": "http://www.kareol.es/obras/elbarberodesevilla/acto1escena2.htm"
+      },
+      {
+        "id": "acto-ii",
+        "name": "Acto II",
+        "setting": "La lección de música",
+        "url": "http://www.kareol.es/obras/elbarberodesevilla/acto2.htm",
+        "jumpUrl": "http://www.kareol.es/obras/elbarberodesevilla/acto2.htm#:~:text=ACTO%20II",
+        "note": "Otro disfraz permite una nueva visita. La llegada de Basilio, la tormenta y la intervención del notario ponen a prueba el ingenio de los amantes."
+      }
+    ],
+    "sourceName": "Kareol",
+    "notice": "El acto I está dividido en dos páginas en la edición de origen. Incluimos el enlace a la continuación."
+  }
+]

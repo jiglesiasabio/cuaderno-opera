@@ -1,0 +1,6 @@
+---
+layout: base.njk
+title: Biblioteca de libretos
+permalink: /libretos/index.html
+---
+<section class="libretto-intro"><p class="eyebrow">03 / LA BIBLIOTECA</p><h1>La palabra,<br><em>junto a la música.</em></h1><p class="lede">Los ocho libretos de tu temporada, en su idioma original y en español. Elige una obra y entra en cada acto.</p><p class="library-note">Las lecturas completas se consultan en sus ediciones externas bilingües. Conservamos la atribución de cada edición y no reproducimos aquí las traducciones. Seis obras ofrecen además un visor de la edición completa de El Atril.</p></section><section class="section libretto-library">{% for l in librettos %}<article class="libretto-library-row"><span class="record-no">0{{ loop.index }}</span><div><p class="eyebrow">{{ l.language }} / ESPAÑOL</p><h2><a href="/libretos/{{ l.slug }}/">{{ l.title }} ↗</a></h2><p>{{ l.composer }}</p><div class="act-pills">{% for a in l.acts %}<a href="/libretos/{{ l.slug }}/#{{ a.id }}">{{ a.name }}</a>{% endfor %}</div></div></article>{% endfor %}</section>

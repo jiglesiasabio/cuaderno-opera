@@ -1,0 +1,1280 @@
+[
+  {
+    "slug": "manon-lescaut",
+    "title": "Manon Lescaut",
+    "composer": "Giacomo Puccini",
+    "date": "2026-10-05",
+    "time": "19:30",
+    "premiere": "1893 · Turín",
+    "format": "Italiano · 4 actos",
+    "tagline": "Pasión sin refugio",
+    "intro": "El amor de Manon y Des Grieux se enfrenta al atractivo del lujo y a una sociedad implacable. Puccini convierte esa tensión en una corriente de melodías que pasa del fulgor juvenil a la desolación.",
+    "characters": "Manon, soprano; Des Grieux, tenor; Lescaut, barítono; Geronte, bajo.",
+    "listen": "Sigue cómo los recuerdos musicales transforman el enamoramiento en pérdida. El intermezzo orquestal cuenta lo que sucede entre dos actos sin necesidad de palabras.",
+    "arias": [
+      {
+        "title": "Donna non vidi mai",
+        "note": "El asombro de Des Grieux en el acto I."
+      },
+      {
+        "title": "In quelle trine morbide",
+        "note": "El lujo no compensa la ausencia del amor."
+      },
+      {
+        "title": "Sola, perduta, abbandonata",
+        "note": "El gran monólogo del acto IV."
+      }
+    ],
+    "video": "gQEKAKl3Rzw",
+    "videoTitle": "Sola, perduta, abbandonata · Anna Netrebko / Pappano",
+    "videoType": "Audio oficial · Deutsche Grammophon",
+    "cast": "Renata Tebaldi · Mario del Monaco",
+    "recording": "Francesco Molinari-Pradelli · Decca · 1954",
+    "recommendation": "Una entrada de gran intensidad vocal: el contraste entre la calidez de Tebaldi y el impulso de Del Monaco pone el drama en primer plano.",
+    "recordUrl": "https://www.pristineclassical.com/products/paco201",
+    "source": "https://www.liceubarcelona.cat/es/manon-lescaut",
+    "sourceTitle": "Liceu · guía de la obra",
+    "ending": "Manon es arrestada y deportada. Des Grieux la acompaña; en el último acto ella muere agotada, lejos del mundo que deseaba conquistar.",
+    "color": "rose",
+    "number": "01",
+    "day": "05",
+    "month": "OCT",
+    "year": "2026",
+    "performance": {
+      "url": "https://www.teatroreal.es/es/espectaculo/manon-lescaut",
+      "functionsUrl": "https://www.teatroreal.es/es/espectaculo/manon-lescaut#misfunciones:~:text=05%20octubre%202026",
+      "dateLabel": "05 octubre 2026",
+      "time": "19:30",
+      "venue": "Teatro Real · Madrid",
+      "hall": "Sala Principal",
+      "subscription": "Abonos D",
+      "cast": [
+        {
+          "role": "Manon Lescaut",
+          "name": "Carolina López Moreno",
+          "url": "https://www.teatroreal.es/es/artista/carolina-lopez-moreno"
+        },
+        {
+          "role": "Lescaut",
+          "name": "Lucas Meachem",
+          "url": "https://www.teatroreal.es/es/artista/lucas-meachem"
+        },
+        {
+          "role": "El caballero Renato des Grieux",
+          "name": "Michael Fabiano",
+          "url": "https://www.teatroreal.es/es/artista/michael-fabiano"
+        },
+        {
+          "role": "Geronte di Ravoir",
+          "name": "Pietro Spagnoli",
+          "url": "https://www.teatroreal.es/es/artista/pietro-spagnoli"
+        },
+        {
+          "role": "Edmondo",
+          "name": "Alejandro del Cerro",
+          "url": "https://www.teatroreal.es/es/artista/alejandro-del-cerro"
+        },
+        {
+          "role": "El hostalero / Un capitán de la marina",
+          "name": "Javier Castañeda",
+          "url": "https://www.teatroreal.es/es/artista/javier-castaneda"
+        },
+        {
+          "role": "Una cantante",
+          "name": "Mercedes Gancedo",
+          "url": "https://www.teatroreal.es/es/artista/mercedes-gancedo"
+        },
+        {
+          "role": "El maestro de baile / El farolero",
+          "name": "Mikeldi Atxalandabaso",
+          "url": "https://www.teatroreal.es/es/artista/mikeldi-atxalandabaso"
+        },
+        {
+          "role": "Un sargento de los arqueros reales",
+          "name": "Javier Franco",
+          "url": "https://www.teatroreal.es/es/artista/javier-franco"
+        }
+      ],
+      "staff": [
+        {
+          "role": "Dirección musical",
+          "name": "Nicola Luisotti",
+          "url": "https://www.teatroreal.es/es/artista/nicola-luisotti"
+        },
+        {
+          "role": "Dirección de escena",
+          "name": "Carlos Wagner",
+          "url": "https://www.teatroreal.es/es/artista/carlos-wagner"
+        },
+        {
+          "role": "Escenógrafo",
+          "name": "Frank Philipp Schlössmann",
+          "url": "https://www.teatroreal.es/es/artista/frank-philipp-schlossmann"
+        },
+        {
+          "role": "Vestuario",
+          "name": "Jon Morrell",
+          "url": "https://www.teatroreal.es/es/artista/jon-morrell"
+        },
+        {
+          "role": "Dirección del coro",
+          "name": "José Luis Basso",
+          "url": "https://www.teatroreal.es/es/artista/jose-luis-basso"
+        }
+      ],
+      "ticketUrl": null,
+      "programs": [
+        "https://www.teatroreal.es/sites/default/files/2026-09/M_PROGRAMA_MANONLESCAUT.pdf"
+      ],
+      "checked": "11 de noviembre de 2026",
+      "conductor": "Nicola Luisotti",
+      "kind": "Producción escénica",
+      "production": "Nueva coproducción del Teatro Real y la Ópera de Colonia.",
+      "staging": "Carlos Wagner firma esta lectura escénica del drama de Puccini.",
+      "duration": "2 h 35 min, aproximadamente",
+      "timing": [
+        "Pausa anunciada: 25 min"
+      ],
+      "notice": "La ficha oficial actualizada asigna Manon a Carolina López Moreno el 5 de octubre, y Des Grieux a Michael Fabiano.",
+      "highlight": "Carolina López Moreno · Michael Fabiano",
+      "conductorUrl": "https://www.teatroreal.es/es/artista/nicola-luisotti",
+      "featuredArtists": [
+        {
+          "role": "Manon Lescaut",
+          "name": "Carolina López Moreno",
+          "url": "https://www.teatroreal.es/es/artista/carolina-lopez-moreno",
+          "voice": "Soprano",
+          "bio": "Su trayectoria incluye Manon Lescaut en Colonia, La rondine en Londres y Suor Angelica en los BBC Proms.",
+          "bioUrl": "https://www.teatroreal.es/es/artista/carolina-lopez-moreno",
+          "bioSource": "Teatro Real · biografía"
+        },
+        {
+          "role": "El caballero Renato des Grieux",
+          "name": "Michael Fabiano",
+          "url": "https://www.teatroreal.es/es/artista/michael-fabiano",
+          "voice": "Tenor",
+          "bio": "Tenor estadounidense formado en Míchigan y Filadelfia. En 2014 recibió los premios Beverly Sills y Richard Tucker. Ha cantado en el Real, entre otras, Tosca y La bohème.",
+          "bioUrl": "https://www.teatroreal.es/es/artista/michael-fabiano",
+          "bioSource": "Teatro Real · biografía"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "las-bodas-de-figaro",
+    "title": "Las bodas de Fígaro",
+    "composer": "Wolfgang Amadeus Mozart",
+    "date": "2026-11-24",
+    "time": "19:30",
+    "premiere": "1786 · Viena",
+    "format": "Italiano · 4 actos",
+    "tagline": "La revolución de un día",
+    "intro": "Fígaro y Susanna quieren casarse; el conde de Almaviva se interpone. En una jornada de disfraces y puertas que se abren a destiempo, Mozart escucha con la misma atención a los señores y a quienes les sirven.",
+    "characters": "Susanna, soprano; Fígaro, bajo-barítono; Condesa, soprano; Conde, barítono; Cherubino, mezzosoprano.",
+    "listen": "Escucha los conjuntos: cada personaje piensa algo distinto y la música permite seguirlos a todos. Reserva atención al final del acto II y al perdón del último acto.",
+    "arias": [
+      {
+        "title": "Non più andrai",
+        "note": "Fígaro despide a Cherubino con una marcha irónica."
+      },
+      {
+        "title": "Voi che sapete",
+        "note": "Cherubino intenta comprender el amor."
+      },
+      {
+        "title": "Dove sono",
+        "note": "La condesa recuerda una felicidad que parece lejana."
+      }
+    ],
+    "video": "uV4UXaYfhJ8",
+    "videoTitle": "Dove sono · Hallveig Rúnarsdóttir",
+    "videoType": "Concierto · Iceland Symphony Orchestra",
+    "cast": "Schwarzkopf · Moffo · Cossotto · Taddei",
+    "recording": "Carlo Maria Giulini · Philharmonia · EMI / Warner · 1959",
+    "recommendation": "Un reparto de personalidades muy distintas y una dirección de fraseo amplio: ideal para disfrutar del lado humano de la comedia.",
+    "recordUrl": "https://www.warnerclassics.com/sites/default/files/2025-05/Carlo%20Maria%20Giulini.pdf",
+    "source": "https://www.rbo.org.uk/tickets-and-events/soprano-arias-porgi-amordove-sono-digital",
+    "sourceTitle": "Royal Ballet and Opera · contexto",
+    "ending": "Las trampas nocturnas dejan al conde en evidencia. La condesa le concede el perdón y la comunidad vuelve a reunirse.",
+    "color": "gold",
+    "number": "02",
+    "day": "24",
+    "month": "NOV",
+    "year": "2026",
+    "performance": {
+      "url": "https://www.teatroreal.es/es/espectaculo/bodas-figaro",
+      "functionsUrl": "https://www.teatroreal.es/es/espectaculo/bodas-figaro#misfunciones:~:text=24%20noviembre%202026",
+      "dateLabel": "24 noviembre 2026",
+      "time": "19:30",
+      "venue": "Teatro Real · Madrid",
+      "hall": "Sala Principal",
+      "subscription": "Abonos D",
+      "cast": [
+        {
+          "role": "El Conde de Almaviva",
+          "name": "Carles Pachon",
+          "url": "https://www.teatroreal.es/es/artista/carles-pachon"
+        },
+        {
+          "role": "La condesa de Almaviva",
+          "name": "Elsa Dreisig",
+          "url": "https://www.teatroreal.es/es/artista/elsa-dreisig"
+        },
+        {
+          "role": "Susanna",
+          "name": "Sabina Puértolas",
+          "url": "https://www.teatroreal.es/es/artista/sabina-puertolas"
+        },
+        {
+          "role": "Figaro",
+          "name": "Germán Olvera",
+          "url": "https://www.teatroreal.es/es/artista/german-olvera"
+        },
+        {
+          "role": "Cherubino",
+          "name": "Lucía Caihuela",
+          "url": "https://www.teatroreal.es/es/artista/lucia-caihuela"
+        },
+        {
+          "role": "Marcellina",
+          "name": "Raquel Lojendio",
+          "url": "https://www.teatroreal.es/es/artista/raquel-lojendio"
+        },
+        {
+          "role": "Bartolo",
+          "name": "Gianluca Buratto",
+          "url": "https://www.teatroreal.es/es/artista/gianluca-buratto"
+        },
+        {
+          "role": "Basilio",
+          "name": "Juan Sancho",
+          "url": "https://www.teatroreal.es/es/artista/juan-sancho"
+        },
+        {
+          "role": "Don Curzio",
+          "name": "Pablo García-López",
+          "url": "https://www.teatroreal.es/es/artista/pablo-garcia-lopez-0"
+        },
+        {
+          "role": "Barbarina",
+          "name": "Lucía Iglesias",
+          "url": "https://www.teatroreal.es/es/artista/lucia-iglesias"
+        },
+        {
+          "role": "Antonio",
+          "name": "Riccardo Novaro",
+          "url": "https://www.teatroreal.es/es/artista/riccardo-novaro"
+        }
+      ],
+      "staff": [
+        {
+          "role": "Dirección musical",
+          "name": "Stefano Montanari",
+          "url": "https://www.teatroreal.es/es/artista/stefano-montanari"
+        },
+        {
+          "role": "Dirección de escena",
+          "name": "Robert Carsen",
+          "url": "https://www.teatroreal.es/es/artista/robert-carsen"
+        },
+        {
+          "role": "Escenógrafo",
+          "name": "Christian Schmidt",
+          "url": "https://www.teatroreal.es/es/artista/christian-schmidt"
+        },
+        {
+          "role": "Vestuario",
+          "name": "Luis Carvalho",
+          "url": "https://www.teatroreal.es/es/artista/luis-carvalho"
+        },
+        {
+          "role": "Iluminación",
+          "name": "Robert Carsen",
+          "url": "https://www.teatroreal.es/es/artista/robert-carsen"
+        },
+        {
+          "role": "Iluminación",
+          "name": "Peter Van Praet",
+          "url": "https://www.teatroreal.es/es/artista/peter-van-praet"
+        },
+        {
+          "role": "Coreografía",
+          "name": "Rebecca Howell",
+          "url": "https://www.teatroreal.es/es/artista/rebecca-howell"
+        },
+        {
+          "role": "Dirección del coro",
+          "name": "José Luis Basso",
+          "url": "https://www.teatroreal.es/es/artista/jose-luis-basso"
+        }
+      ],
+      "ticketUrl": "https://tickets.teatroreal.es/selection/event/seat?perfId=10229518400044&productId=10229518465353&lang=es",
+      "programs": [
+        "https://www.teatroreal.es/sites/default/files/2026-11/M_PROGRAMA_LENOZZEDIFIGARO.pdf"
+      ],
+      "checked": "11 de noviembre de 2026",
+      "conductor": "Stefano Montanari",
+      "kind": "Producción escénica",
+      "production": "Nueva coproducción del Teatro Real y la Metropolitan Opera de Nueva York.",
+      "staging": "Robert Carsen aborda la comedia desde las relaciones de poder.",
+      "duration": "3 h 20 min, aproximadamente",
+      "timing": [
+        "Parte I: 1 h 35 min",
+        "Pausa: 25 min",
+        "Parte II: 1 h 20 min"
+      ],
+      "notice": "La función del 24 de noviembre mantiene la fecha y hora de tu calendario.",
+      "highlight": "Elsa Dreisig · Sabina Puértolas · Germán Olvera",
+      "conductorUrl": "https://www.teatroreal.es/es/artista/stefano-montanari",
+      "featuredArtists": [
+        {
+          "role": "La condesa de Almaviva",
+          "name": "Elsa Dreisig",
+          "url": "https://www.teatroreal.es/es/artista/elsa-dreisig",
+          "voice": "Soprano",
+          "bio": "De origen franco-danés, se formó en París y Leipzig. Ganó el primer premio de Operalia en 2016 y pasó del estudio de ópera al conjunto de la Staatsoper de Berlín.",
+          "bioUrl": "https://www.staatsoper.de/en/biographies/dreisig-elsa",
+          "bioSource": "Bayerische Staatsoper · biografía"
+        },
+        {
+          "role": "Susanna",
+          "name": "Sabina Puértolas",
+          "url": "https://www.teatroreal.es/es/artista/sabina-puertolas",
+          "voice": "Soprano",
+          "bio": "La soprano navarra se formó en Pamplona, Siena y Busseto. Debutó en La Scala como Oscar de Un ballo in maschera con Riccardo Muti.",
+          "bioUrl": "https://www.teatroreal.es/es/artista/sabina-puertolas",
+          "bioSource": "Teatro Real · biografía"
+        },
+        {
+          "role": "Figaro",
+          "name": "Germán Olvera",
+          "url": "https://www.teatroreal.es/es/artista/german-olvera",
+          "voice": "Barítono",
+          "bio": "Nacido en Michoacán, debutó como Escamillo en el Palacio de Bellas Artes de México. Se formó también en el centro de perfeccionamiento del Palau de les Arts de Valencia.",
+          "bioUrl": "https://www.teatroreal.es/es/artista/german-olvera",
+          "bioSource": "Teatro Real · biografía"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "simon-boccanegra",
+    "title": "Simon Boccanegra",
+    "composer": "Giuseppe Verdi",
+    "date": "2027-01-03",
+    "time": "18:00",
+    "premiere": "1857 · Venecia / revisión 1881 · Milán",
+    "format": "Italiano · prólogo y 3 actos",
+    "tagline": "El poder y la herida",
+    "intro": "Un antiguo corsario convertido en dux de Génova intenta gobernar una ciudad dividida. Bajo la intriga política late una historia íntima: un padre busca a la hija que perdió.",
+    "characters": "Simon, barítono; Amelia, soprano; Fiesco, bajo; Gabriele Adorno, tenor; Paolo, barítono.",
+    "listen": "El prólogo y el acto I están separados por veinticinco años. Amelia también se llama Maria: recordarlo ayuda a seguir los reconocimientos. El mar une la vida pública y la memoria de Simon.",
+    "arias": [
+      {
+        "title": "Il lacerato spirito",
+        "note": "La voz oscura de Fiesco abre el conflicto familiar."
+      },
+      {
+        "title": "Come in quest’ora bruna",
+        "note": "Amelia y la luz del amanecer."
+      },
+      {
+        "title": "Plebe! Patrizi! Popolo!",
+        "note": "La escena del Consejo: el gran centro político de la ópera."
+      }
+    ],
+    "video": "s89cFWVDGeE",
+    "videoTitle": "Simon Boccanegra · Abbado / La Scala, 1978 · primera parte",
+    "videoType": "Documento escénico · fuente enlazada por La Fenice",
+    "cast": "Cappuccilli · Freni · Carreras · Ghiaurov",
+    "recording": "Claudio Abbado · La Scala · Deutsche Grammophon · 1977",
+    "recommendation": "Mi primera elección por el equilibrio entre intimidad y tensión colectiva, con un cuarteto vocal extraordinariamente complementario.",
+    "recordUrl": "https://www.deutschegrammophon.com/de/katalog/produkte/verdi-simon-boccanegra-freni-carreras-abbado-2897",
+    "source": "https://www.teatrolafenice.it/wp-content/uploads/2019/03/SIMON-BOCCANEGRA-1.pdf",
+    "sourceTitle": "La Fenice · programa y discografía",
+    "ending": "Simon reconoce a Amelia como su hija. Envenenado por Paolo, se reconcilia con Fiesco antes de morir y designa a Adorno como sucesor.",
+    "color": "sea",
+    "number": "03",
+    "day": "03",
+    "month": "ENE",
+    "year": "2027",
+    "performance": {
+      "url": "https://www.teatroreal.es/es/espectaculo/simon-boccanegra",
+      "functionsUrl": "https://www.teatroreal.es/es/espectaculo/simon-boccanegra#misfunciones:~:text=03%20enero%202027",
+      "dateLabel": "03 enero 2027",
+      "time": "18:00",
+      "venue": "Teatro Real · Madrid",
+      "hall": "Sala Principal",
+      "subscription": "Abonos D",
+      "cast": [
+        {
+          "role": "Simon Boccanegra",
+          "name": "Ludovic Tézier",
+          "url": "https://www.teatroreal.es/es/artista/ludovic-tezier"
+        },
+        {
+          "role": "Amelia Grimaldi",
+          "name": "Hrachuhí Bassénz",
+          "url": "https://www.teatroreal.es/es/artista/hrachuhi-bassenz"
+        },
+        {
+          "role": "Jacopo Fiesco",
+          "name": "John Relyea",
+          "url": "https://www.teatroreal.es/es/artista/john-relyea"
+        },
+        {
+          "role": "Gabriele Adorno",
+          "name": "Francesco Meli",
+          "url": "https://www.teatroreal.es/es/artista/francesco-meli"
+        },
+        {
+          "role": "Paolo Albiani",
+          "name": "Germán Enrique Alcántara",
+          "url": "https://www.teatroreal.es/es/artista/german-enrique-alcantara"
+        },
+        {
+          "role": "Pietro",
+          "name": "David Lagares",
+          "url": "https://www.teatroreal.es/es/artista/david-lagares"
+        },
+        {
+          "role": "Un capitán de los ballesteros",
+          "name": "Fabián Lara",
+          "url": "https://www.teatroreal.es/es/artista/fabian-lara"
+        },
+        {
+          "role": "Doncella de Amelia",
+          "name": "Cassandre Berthon",
+          "url": "https://www.teatroreal.es/es/artista/cassandre-berthon"
+        }
+      ],
+      "staff": [
+        {
+          "role": "Dirección musical",
+          "name": "Nicola Luisotti",
+          "url": "https://www.teatroreal.es/es/artista/nicola-luisotti"
+        },
+        {
+          "role": "Dirección de escena",
+          "name": "Pierre Audi",
+          "url": "https://www.teatroreal.es/es/artista/pierre-audi"
+        },
+        {
+          "role": "Escenógrafo",
+          "name": "Anish Kapoor",
+          "url": "https://www.teatroreal.es/es/artista/anish-kapoor"
+        },
+        {
+          "role": "Vestuario",
+          "name": "Wojciech Dziedzic",
+          "url": "https://www.teatroreal.es/es/artista/wojciech-dziedzic"
+        },
+        {
+          "role": "Iluminación",
+          "name": "Jean Kalman",
+          "url": "https://www.teatroreal.es/es/artista/jean-kalman"
+        },
+        {
+          "role": "Dirección del coro",
+          "name": "José Luis Basso",
+          "url": "https://www.teatroreal.es/es/artista/jose-luis-basso"
+        }
+      ],
+      "ticketUrl": "https://tickets.teatroreal.es/selection/event/seat?perfId=10229518400069",
+      "programs": [],
+      "checked": "11 de noviembre de 2026",
+      "conductor": "Nicola Luisotti",
+      "kind": "Producción escénica",
+      "production": "Coproducción con el Nuevo Teatro Nacional de Tokio y la Ópera y Ballet Nacionales de Finlandia.",
+      "staging": "Pierre Audi dirige la escena, con el espacio concebido por Anish Kapoor.",
+      "duration": "3 h, aproximadamente",
+      "timing": [],
+      "notice": "El 3 de enero dirige Nicola Luisotti.",
+      "highlight": "Ludovic Tézier · Hrachuhí Bassénz · Francesco Meli",
+      "conductorUrl": "https://www.teatroreal.es/es/artista/nicola-luisotti",
+      "featuredArtists": [
+        {
+          "role": "Simon Boccanegra",
+          "name": "Ludovic Tézier",
+          "url": "https://www.teatroreal.es/es/artista/ludovic-tezier",
+          "voice": "Barítono",
+          "bio": "El barítono francés ha hecho de los grandes personajes de Verdi un eje de su repertorio: Boccanegra, Rigoletto, Macbeth y Posa. También canta Wolfram, el papel que escucharás en Tannhäuser.",
+          "bioUrl": "https://www.sonyclassical.com/artists/artist-details/ludovic-tezier",
+          "bioSource": "Sony Classical · biografía"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "fedora",
+    "title": "Fedora",
+    "composer": "Umberto Giordano",
+    "date": "2027-01-10",
+    "time": "18:00",
+    "premiere": "1898 · Milán",
+    "format": "Italiano · 3 actos",
+    "tagline": "Amar al enemigo",
+    "intro": "La princesa Fedora investiga la muerte de su prometido. Su búsqueda la conduce hasta Loris, el hombre al que acusa, y a una verdad que desarma sus certezas. El melodrama se mueve con la rapidez de un thriller.",
+    "characters": "Fedora, soprano; Loris, tenor; Olga, soprano; De Siriex, barítono.",
+    "listen": "Observa cómo cambia el sentido de una confesión cuando conocemos su contexto. La célebre aria del tenor es brevísima: el drama se sostiene sobre conversaciones y revelaciones.",
+    "arias": [
+      {
+        "title": "Amor ti vieta",
+        "note": "La declaración de Loris: una miniatura de lirismo expansivo."
+      },
+      {
+        "title": "Son gente risoluta",
+        "note": "De Siriex aporta contraste al ambiente del salón."
+      },
+      {
+        "title": "Escena final",
+        "note": "La tensión emocional se concentra alrededor de Fedora y Loris."
+      }
+    ],
+    "video": "-RhobSPIfkY",
+    "videoTitle": "Amor ti vieta · Luciano Pavarotti",
+    "videoType": "Audio oficial · Decca",
+    "cast": "Mirella Freni · Plácido Domingo",
+    "recording": "Gianandrea Gavazzeni · La Scala · 1993 · directo",
+    "recommendation": "Para descubrir la obra desde el teatro: Freni da peso humano a Fedora y Domingo sostiene el arco de Loris. Ediciones en CD Legato Classics y vídeo TDK / Arthaus; comprobar el formato al buscar.",
+    "recordUrl": "https://operadis.com/ALGIFEDO/",
+    "source": "https://www.operalaspalmas.com/wp-content/uploads/2022/09/programa-FEDORA.pdf",
+    "sourceTitle": "Ópera de Las Palmas · programa y libreto",
+    "ending": "Fedora descubre que su denuncia ha provocado la muerte de familiares de Loris. Cuando él conoce su responsabilidad, ella toma veneno; el perdón llega demasiado tarde.",
+    "color": "rose",
+    "number": "04",
+    "day": "10",
+    "month": "ENE",
+    "year": "2027",
+    "performance": {
+      "url": "https://www.teatroreal.es/es/espectaculo/fedora",
+      "functionsUrl": "https://www.teatroreal.es/es/espectaculo/fedora#misfunciones:~:text=10%20enero%202027",
+      "dateLabel": "10 enero 2027",
+      "time": "18:00",
+      "venue": "Teatro Real · Madrid",
+      "hall": "Sala Principal",
+      "subscription": "Abonos D",
+      "cast": [
+        {
+          "role": "La princesa Fedora",
+          "name": "Sonya Yoncheva",
+          "url": "https://www.teatroreal.es/es/artista/sonya-yoncheva"
+        },
+        {
+          "role": "La condesa Olga Skarev",
+          "name": "Sabina Puértolas",
+          "url": "https://www.teatroreal.es/es/artista/sabina-puertolas"
+        },
+        {
+          "role": "El conde Loris Ipanoff",
+          "name": "Luciano Ganci",
+          "url": "https://www.teatroreal.es/es/artista/luciano-ganci"
+        },
+        {
+          "role": "De Siriex",
+          "name": "George Petean",
+          "url": "https://www.teatroreal.es/es/artista/george-petean"
+        },
+        {
+          "role": "Dimitri / Un niño campesino",
+          "name": "Valentina Pernozzoli",
+          "url": "https://www.teatroreal.es/es/artista/valentina-pernozzoli"
+        },
+        {
+          "role": "Désiré / El barón Rouvel",
+          "name": "Mikeldi Atxalandabaso",
+          "url": "https://www.teatroreal.es/es/artista/mikeldi-atxalandabaso"
+        },
+        {
+          "role": "Cirillo",
+          "name": "Alejandro López",
+          "url": "https://www.teatroreal.es/es/artista/alejandro-lopez"
+        },
+        {
+          "role": "Borov / Lorek",
+          "name": "Tomeu Bibiloni",
+          "url": "https://www.teatroreal.es/es/artista/tomeu-bibiloni"
+        },
+        {
+          "role": "Grech",
+          "name": "Gabriele Sagona",
+          "url": "https://www.teatroreal.es/es/artista/gabriele-sagona"
+        },
+        {
+          "role": "Boleslao Lazinski",
+          "name": "Edoardo Barsotti",
+          "url": "https://www.teatroreal.es/es/artista/edoardo-barsotti"
+        }
+      ],
+      "staff": [
+        {
+          "role": "Dirección musical",
+          "name": "Daniel Oren",
+          "url": "https://www.teatroreal.es/es/artista/daniel-oren"
+        },
+        {
+          "role": "Dirección del coro",
+          "name": "José Luis Basso",
+          "url": "https://www.teatroreal.es/es/artista/jose-luis-basso"
+        }
+      ],
+      "ticketUrl": "https://tickets.teatroreal.es/selection/event/seat?perfId=10229518400075",
+      "programs": [],
+      "checked": "11 de noviembre de 2026",
+      "conductor": "Daniel Oren",
+      "kind": "Versión de concierto",
+      "production": "Ópera en versión de concierto, con los cuerpos titulares del Teatro Real.",
+      "staging": "La función está anunciada en formato de concierto.",
+      "duration": null,
+      "timing": [],
+      "notice": "Versión de concierto confirmada en la ficha oficial.",
+      "highlight": "Sonya Yoncheva · Luciano Ganci · Sabina Puértolas",
+      "conductorUrl": "https://www.teatroreal.es/es/artista/daniel-oren",
+      "featuredArtists": [
+        {
+          "role": "La princesa Fedora",
+          "name": "Sonya Yoncheva",
+          "url": "https://www.teatroreal.es/es/artista/sonya-yoncheva",
+          "voice": "Soprano",
+          "bio": "Se formó en Plovdiv y Ginebra. Su paso por Le Jardin des Voix de William Christie dio inicio a una trayectoria en la que el repertorio barroco sigue presente.",
+          "bioUrl": "https://www.operadeparis.fr/en/artists/sonya-yoncheva",
+          "bioSource": "Opéra national de Paris · biografía"
+        },
+        {
+          "role": "El conde Loris Ipanoff",
+          "name": "Luciano Ganci",
+          "url": "https://www.teatroreal.es/es/artista/luciano-ganci",
+          "voice": "Tenor",
+          "bio": "Comenzó su formación en el coro de la Capilla Sixtina, dirigido por Domenico Bartolucci, y estudió canto, piano y órgano.",
+          "bioUrl": "https://www.lucianoganci.it/en",
+          "bioSource": "Web del artista · biografía"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "katia-kabanova",
+    "title": "Katia Kabanová",
+    "composer": "Leoš Janáček",
+    "date": "2027-03-03",
+    "time": "19:30",
+    "premiere": "1921 · Brno",
+    "format": "Checo · 3 actos",
+    "tagline": "La tormenta interior",
+    "intro": "En una población a orillas del Volga, Katia vive bajo el dominio de su suegra y la pasividad de su marido. Su amor por Boris abre una posibilidad de libertad y despierta una culpa insoportable.",
+    "characters": "Katia, soprano; Boris, tenor; Kabanicha, voz femenina grave; Tichon, tenor; Varvara, mezzosoprano.",
+    "listen": "Janáček hace música con el ritmo del habla. Escucha los motivos cortos que regresan y se tensan: aquí las escenas y los colores orquestales importan más que las arias aisladas.",
+    "arias": [
+      {
+        "title": "Recuerdos de Katia, acto I",
+        "note": "El deseo de volar y el recuerdo de la infancia."
+      },
+      {
+        "title": "Encuentro nocturno, acto II",
+        "note": "La intimidad de Katia y Boris frente al mundo exterior."
+      },
+      {
+        "title": "Tormenta, acto III",
+        "note": "El paisaje se convierte en presión psicológica."
+      }
+    ],
+    "video": "jph_d-gT7MA",
+    "videoTitle": "Káťa Kabanová · tráiler oficial de Glyndebourne",
+    "videoType": "Tráiler escénico · Glyndebourne, 2025",
+    "cast": "Elisabeth Söderström · Peter Dvorský",
+    "recording": "Charles Mackerras · Filarmónica de Viena · Decca · 1976",
+    "recommendation": "La precisión de Mackerras y la vulnerabilidad de Söderström permiten seguir tanto la arquitectura de la partitura como el mundo interior de Katia.",
+    "recordUrl": "https://www.deutschegrammophon.com/en/catalogue/products/janacek-katja-kabanova-mackerras-9394",
+    "source": "https://operavision.eu/performance/kata-kabanova",
+    "sourceTitle": "OperaVision · argumento y contexto",
+    "ending": "Katia confiesa su infidelidad. Separada de Boris y sin una salida a su encierro, se arroja al Volga. Tichon acusa a su madre.",
+    "color": "sea",
+    "number": "05",
+    "day": "03",
+    "month": "MAR",
+    "year": "2027",
+    "performance": {
+      "url": "https://www.teatroreal.es/es/espectaculo/katia-kabanova",
+      "functionsUrl": "https://www.teatroreal.es/es/espectaculo/katia-kabanova#misfunciones:~:text=03%20marzo%202027",
+      "dateLabel": "03 marzo 2027",
+      "time": "19:30",
+      "venue": "Teatro Real · Madrid",
+      "hall": "Sala Principal",
+      "subscription": "Abonos D",
+      "cast": [
+        {
+          "role": "Dikoi",
+          "name": "Peter Kálmán",
+          "url": "https://www.teatroreal.es/es/artista/peter-kalman"
+        },
+        {
+          "role": "Boris",
+          "name": "Matthew Newlin",
+          "url": "https://www.teatroreal.es/es/artista/matthew-newlin"
+        },
+        {
+          "role": "Kabanija",
+          "name": "Christa Mayer",
+          "url": "https://www.teatroreal.es/es/artista/christa-mayer"
+        },
+        {
+          "role": "Tijon",
+          "name": "Michael Laurenz",
+          "url": "https://www.teatroreal.es/es/artista/michael-laurenz"
+        },
+        {
+          "role": "Katia",
+          "name": "Mané Galoyan",
+          "url": "https://www.teatroreal.es/es/artista/mane-galoyan"
+        },
+        {
+          "role": "Kudriash",
+          "name": "Bogdan Volkov",
+          "url": "https://www.teatroreal.es/es/artista/bogdan-volkov"
+        },
+        {
+          "role": "Varvara",
+          "name": "Jana Kurucová",
+          "url": "https://www.teatroreal.es/es/artista/jana-kurucova"
+        },
+        {
+          "role": "Kuliguin",
+          "name": "Manel Esteve",
+          "url": "https://www.teatroreal.es/es/artista/manel-esteve"
+        },
+        {
+          "role": "Glasha",
+          "name": "Laura Vila",
+          "url": "https://www.teatroreal.es/es/artista/laura-vila"
+        },
+        {
+          "role": "Feklusha",
+          "name": "Laura Orueta",
+          "url": "https://www.teatroreal.es/es/artista/laura-orueta"
+        }
+      ],
+      "staff": [
+        {
+          "role": "Dirección musical",
+          "name": "Gustavo Gimeno",
+          "url": "https://www.teatroreal.es/es/artista/gustavo-gimeno"
+        },
+        {
+          "role": "Dirección de escena",
+          "name": "Christof Loy",
+          "url": "https://www.teatroreal.es/es/artista/christof-loy"
+        },
+        {
+          "role": "Escenógrafo",
+          "name": "Etienne Pluss",
+          "url": "https://www.teatroreal.es/es/artista/etienne-pluss"
+        },
+        {
+          "role": "Vestuario",
+          "name": "Robby Duiveman",
+          "url": "https://www.teatroreal.es/es/artista/robby-duiveman"
+        },
+        {
+          "role": "Iluminación",
+          "name": "Fabrice Kebour",
+          "url": "https://www.teatroreal.es/es/artista/fabrice-kebour"
+        },
+        {
+          "role": "Dirección del coro",
+          "name": "José Luis Basso",
+          "url": "https://www.teatroreal.es/es/artista/jose-luis-basso"
+        }
+      ],
+      "ticketUrl": null,
+      "programs": [],
+      "checked": "11 de noviembre de 2026",
+      "conductor": "Gustavo Gimeno",
+      "kind": "Producción escénica",
+      "production": "Nueva coproducción con el Teatro alla Scala de Milán y la Houston Grand Opera.",
+      "staging": "Christof Loy firma la dirección de escena.",
+      "duration": null,
+      "timing": [],
+      "notice": "Reparto único anunciado para toda la serie.",
+      "highlight": "Mané Galoyan · Matthew Newlin · Christa Mayer",
+      "conductorUrl": "https://www.teatroreal.es/es/artista/gustavo-gimeno",
+      "featuredArtists": [
+        {
+          "role": "Katia",
+          "name": "Mané Galoyan",
+          "url": "https://www.teatroreal.es/es/artista/mane-galoyan",
+          "voice": "Soprano",
+          "bio": "La soprano armenia obtuvo tres premios en Operalia 2021. Su carrera la ha llevado al Metropolitan, la Lyric Opera de Chicago y la Deutsche Oper de Berlín.",
+          "bioUrl": "https://www.manegaloyan.com/",
+          "bioSource": "Web de la artista · biografía"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "norma",
+    "title": "Norma",
+    "composer": "Vincenzo Bellini",
+    "date": "2027-04-27",
+    "time": "19:30",
+    "premiere": "1831 · Milán",
+    "format": "Italiano · 2 actos",
+    "tagline": "Una voz entre dos mundos",
+    "intro": "Sacerdotisa de los druidas en la Galia ocupada, Norma oculta una relación con el romano Pollione y los hijos de ambos. Cuando él se enamora de Adalgisa, el conflicto amoroso amenaza con convertirse en una guerra.",
+    "characters": "Norma, soprano; Adalgisa, soprano o mezzosoprano según el reparto; Pollione, tenor; Oroveso, bajo.",
+    "listen": "La larga línea de Bellini requiere escuchar la respiración de las frases. El vínculo entre Norma y Adalgisa es tan importante como la rivalidad amorosa: sus dúos son el corazón de la obra.",
+    "arias": [
+      {
+        "title": "Casta diva",
+        "note": "La plegaria pública de una mujer dividida en privado."
+      },
+      {
+        "title": "Mira, o Norma",
+        "note": "El dúo convierte el conflicto en solidaridad."
+      },
+      {
+        "title": "In mia man alfin tu sei",
+        "note": "Norma y Pollione frente a las consecuencias de sus actos."
+      }
+    ],
+    "video": "s-TwMfgaDC8",
+    "videoTitle": "Casta diva · Maria Callas, París 1958",
+    "videoType": "Vídeo oficial · Warner Classics",
+    "cast": "Maria Callas · Christa Ludwig · Franco Corelli",
+    "recording": "Tullio Serafin · La Scala · EMI / Warner · 1960",
+    "recommendation": "Una referencia dramática: Callas articula cada cambio de ánimo, Ludwig aporta nobleza a Adalgisa y Corelli una presencia incisiva a Pollione.",
+    "recordUrl": "https://www.warnerclassics.com/release/bellini-norma-1960-serafin-callas-remastered",
+    "source": "https://www.metopera.org/discover/synopses/norma",
+    "sourceTitle": "Metropolitan Opera · argumento",
+    "ending": "Norma revela que ella misma ha quebrantado sus votos. Pollione reconoce su grandeza y la acompaña al sacrificio; Oroveso acepta proteger a los niños.",
+    "color": "gold",
+    "number": "06",
+    "day": "27",
+    "month": "ABR",
+    "year": "2027",
+    "performance": {
+      "url": "https://www.teatroreal.es/es/espectaculo/norma",
+      "functionsUrl": "https://www.teatroreal.es/es/espectaculo/norma#misfunciones:~:text=27%20abril%202027",
+      "dateLabel": "27 abril 2027",
+      "time": "19:30",
+      "venue": "Teatro Real · Madrid",
+      "hall": "Sala Principal",
+      "subscription": "Abonos D",
+      "cast": [
+        {
+          "role": "Pollione",
+          "name": "Dmitry Korchak",
+          "url": "https://www.teatroreal.es/es/artista/dmitry-korchak"
+        },
+        {
+          "role": "Oroveso",
+          "name": "Krzysztof Bączyk",
+          "url": "https://www.teatroreal.es/es/artista/krzysztof-baczyk-0"
+        },
+        {
+          "role": "Norma",
+          "name": "Jessica Pratt",
+          "url": "https://www.teatroreal.es/es/artista/jessica-pratt"
+        },
+        {
+          "role": "Adalgisa",
+          "name": "Rihab Chaieb",
+          "url": "https://www.teatroreal.es/es/artista/rihab-chaieb"
+        },
+        {
+          "role": "Clotilde",
+          "name": "Yasmin Forastiero",
+          "url": "https://www.teatroreal.es/es/artista/yasmin-forastiero"
+        },
+        {
+          "role": "Flavio",
+          "name": "Jorge Rodríguez Norton",
+          "url": "https://www.teatroreal.es/es/artista/jorge-rodriguez-norton-0"
+        }
+      ],
+      "staff": [
+        {
+          "role": "Dirección musical",
+          "name": "Francesco Lanzillotta",
+          "url": "https://www.teatroreal.es/es/artista/francesco-lanzillotta"
+        },
+        {
+          "role": "Dirección de escena",
+          "name": "Justin Way",
+          "url": "https://www.teatroreal.es/es/artista/justin-way"
+        },
+        {
+          "role": "Escenógrafo",
+          "name": "Charles Edwards",
+          "url": "https://www.teatroreal.es/es/artista/charles-edwards"
+        },
+        {
+          "role": "Vestuario",
+          "name": "Sue Willmington",
+          "url": "https://www.teatroreal.es/es/artista/sue-willmington"
+        },
+        {
+          "role": "Iluminación",
+          "name": "Nicolás Fischtel",
+          "url": "https://www.teatroreal.es/es/artista/nicolas-fischtel-0"
+        },
+        {
+          "role": "Coreografía",
+          "name": "Jo Meredith",
+          "url": "https://www.teatroreal.es/es/artista/jo-meredith"
+        },
+        {
+          "role": "Dirección del coro",
+          "name": "José Luis Basso",
+          "url": "https://www.teatroreal.es/es/artista/jose-luis-basso"
+        }
+      ],
+      "ticketUrl": null,
+      "programs": [],
+      "checked": "11 de noviembre de 2026",
+      "conductor": "Francesco Lanzillotta",
+      "kind": "Producción escénica",
+      "production": "Reposición de la producción del Teatro Real firmada por Justin Way.",
+      "staging": "El montaje sitúa un teatro dentro del teatro.",
+      "duration": null,
+      "timing": [],
+      "notice": "El 27 de abril dirige Francesco Lanzillotta.",
+      "highlight": "Jessica Pratt · Rihab Chaieb · Dmitry Korchak",
+      "conductorUrl": "https://www.teatroreal.es/es/artista/francesco-lanzillotta",
+      "featuredArtists": [
+        {
+          "role": "Norma",
+          "name": "Jessica Pratt",
+          "url": "https://www.teatroreal.es/es/artista/jessica-pratt",
+          "voice": "Soprano",
+          "bio": "Su repertorio se centra en el bel canto, con especial presencia de las exigencias de agilidad y registro agudo de este estilo.",
+          "bioUrl": "https://www.victorianopera.com.au/artist/jessica-pratt/",
+          "bioSource": "Victorian Opera · biografía"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "tannhauser",
+    "title": "Tannhäuser",
+    "composer": "Richard Wagner",
+    "date": "2027-06-03",
+    "time": "19:00",
+    "premiere": "1845 · Dresde / revisión de París 1861",
+    "format": "Alemán · 3 actos",
+    "tagline": "El deseo y la redención",
+    "intro": "El trovador Tannhäuser abandona el reino sensual de Venus para regresar al mundo de Elisabeth y al concurso de canto de la Wartburg. Su idea del amor choca con la de los demás caballeros.",
+    "characters": "Tannhäuser, tenor; Elisabeth, soprano; Venus, mezzosoprano o soprano; Wolfram, barítono; Hermann, bajo.",
+    "listen": "Escucha el contraste entre la música de Venus y el coral de los peregrinos. Existen varias versiones de la partitura; la de tu función no está indicada en el calendario.",
+    "arias": [
+      {
+        "title": "Obertura y coro de peregrinos",
+        "note": "El conflicto de la obra aparece ya en sus temas orquestales."
+      },
+      {
+        "title": "Dich, teure Halle",
+        "note": "Elisabeth vuelve a la sala de los cantores."
+      },
+      {
+        "title": "O du mein holder Abendstern",
+        "note": "Wolfram canta a la estrella de la tarde."
+      }
+    ],
+    "video": "tbLlg5QBHmc",
+    "videoTitle": "O du mein holder Abendstern · Christian Gerhaher",
+    "videoType": "Fragmento escénico oficial · Metropolitan Opera",
+    "cast": "René Kollo · Helga Dernesch · Christa Ludwig",
+    "recording": "Georg Solti · Filarmónica de Viena · Decca · 1970",
+    "recommendation": "Para escuchar la riqueza de la orquesta y el choque de sus mundos sonoros. Parte de la revisión parisina; conviene comparar después con una lectura de Dresde.",
+    "recordUrl": "https://www.prestomusic.com/classical/products/8471316--wagner-tannhauser",
+    "source": "https://www.metopera.org/Discover/Synopses/Tannhauser/",
+    "sourceTitle": "Metropolitan Opera · argumento",
+    "ending": "Tannhäuser regresa de Roma sin absolución. La muerte de Elisabeth y el milagro del báculo florecido anuncian su redención cuando él también muere.",
+    "color": "sea",
+    "number": "07",
+    "day": "03",
+    "month": "JUN",
+    "year": "2027",
+    "performance": {
+      "url": "https://www.teatroreal.es/es/espectaculo/tannhauser",
+      "functionsUrl": "https://www.teatroreal.es/es/espectaculo/tannhauser#misfunciones:~:text=03%20junio%202027",
+      "dateLabel": "03 junio 2027",
+      "time": "19:00",
+      "venue": "Teatro Real · Madrid",
+      "hall": "Sala Principal",
+      "subscription": "Abonos D",
+      "cast": [
+        {
+          "role": "Hermann",
+          "name": "Georg Zeppenfeld",
+          "url": "https://www.teatroreal.es/es/artista/georg-zeppenfeld"
+        },
+        {
+          "role": "Tannhäuser",
+          "name": "Clay Hilley",
+          "url": "https://www.teatroreal.es/es/artista/clay-hilley"
+        },
+        {
+          "role": "Wolfram Von Eschenbach",
+          "name": "Ludovic Tézier",
+          "url": "https://www.teatroreal.es/es/artista/ludovic-tezier"
+        },
+        {
+          "role": "Walter von der Vogelweide",
+          "name": "Airam Hernández",
+          "url": "https://www.teatroreal.es/es/artista/airam-hernandez"
+        },
+        {
+          "role": "Biterolf",
+          "name": "Levente Páll",
+          "url": "https://www.teatroreal.es/es/artista/levente-pall"
+        },
+        {
+          "role": "Heinrich Der Schreiber",
+          "name": "Tadeusz Szlenkier",
+          "url": "https://www.teatroreal.es/es/artista/tadeusz-szlenkier"
+        },
+        {
+          "role": "Reinmar von Zweter",
+          "name": "Fernando Radó",
+          "url": "https://www.teatroreal.es/es/artista/fernando-rado"
+        },
+        {
+          "role": "Elisabeth",
+          "name": "Malin Byström",
+          "url": "https://www.teatroreal.es/es/artista/malin-bystrom"
+        },
+        {
+          "role": "Venus",
+          "name": "Ausrine Stundyte",
+          "url": "https://www.teatroreal.es/es/artista/ausrine-stundyte"
+        },
+        {
+          "role": "Un Joven Pastor",
+          "name": "Cassandre Berthon",
+          "url": "https://www.teatroreal.es/es/artista/cassandre-berthon"
+        }
+      ],
+      "staff": [
+        {
+          "role": "Dirección musical",
+          "name": "Gustavo Gimeno",
+          "url": "https://www.teatroreal.es/es/artista/gustavo-gimeno"
+        },
+        {
+          "role": "Dirección de escena",
+          "name": "David Hermann",
+          "url": "https://www.teatroreal.es/es/artista/david-hermann-0"
+        },
+        {
+          "role": "Escenógrafo",
+          "name": "Jo Schramm",
+          "url": "https://www.teatroreal.es/es/artista/jo-schramm"
+        },
+        {
+          "role": "Vestuario",
+          "name": "Bettina Walter",
+          "url": "https://www.teatroreal.es/es/artista/bettina-walter"
+        },
+        {
+          "role": "Iluminación",
+          "name": "Fabrice Kebour",
+          "url": "https://www.teatroreal.es/es/artista/fabrice-kebour"
+        },
+        {
+          "role": "Coreografía",
+          "name": "Jean-Philippe Guilois",
+          "url": "https://www.teatroreal.es/es/artista/jean-philippe-guilois"
+        },
+        {
+          "role": "Dirección del coro",
+          "name": "José Luis Basso",
+          "url": "https://www.teatroreal.es/es/artista/jose-luis-basso"
+        }
+      ],
+      "ticketUrl": null,
+      "programs": [],
+      "checked": "11 de noviembre de 2026",
+      "conductor": "Gustavo Gimeno",
+      "kind": "Producción escénica",
+      "production": "Nueva coproducción del Teatro Real y la Ópera de Lyon.",
+      "staging": "David Hermann propone un mundo de ciencia ficción y paisaje postapocalíptico.",
+      "duration": null,
+      "timing": [],
+      "notice": "La ficha consultada no precisa la versión musical que se utilizará.",
+      "highlight": "Clay Hilley · Ludovic Tézier · Malin Byström",
+      "conductorUrl": "https://www.teatroreal.es/es/artista/gustavo-gimeno",
+      "featuredArtists": [
+        {
+          "role": "Tannhäuser",
+          "name": "Clay Hilley",
+          "url": "https://www.teatroreal.es/es/artista/clay-hilley",
+          "voice": "Tenor",
+          "bio": "Tenor heroico estadounidense y ganador del Richard Tucker Award de 2024. Ha interpretado Tannhäuser en Viena y Berlín, además de personajes wagnerianos como Tristan, Siegfried y Parsifal.",
+          "bioUrl": "https://www.clayhilleytenor.com/bio",
+          "bioSource": "Web del artista · biografía"
+        },
+        {
+          "role": "Elisabeth",
+          "name": "Malin Byström",
+          "url": "https://www.teatroreal.es/es/artista/malin-bystrom",
+          "voice": "Soprano",
+          "bio": "La soprano sueca se formó en Estocolmo. Su repertorio va de Mozart a Strauss; ha interpretado Salome, Arabella y la Mariscala.",
+          "bioUrl": "https://www.teatroreal.es/es/artista/malin-bystrom",
+          "bioSource": "Teatro Real · biografía"
+        }
+      ]
+    }
+  },
+  {
+    "slug": "el-barbero-de-sevilla",
+    "title": "El barbero de Sevilla",
+    "composer": "Gioachino Rossini",
+    "date": "2027-07-19",
+    "time": "19:30",
+    "premiere": "1816 · Roma",
+    "format": "Italiano · 2 actos",
+    "tagline": "El arte de enredarlo todo",
+    "intro": "El conde de Almaviva quiere conquistar a Rosina sin recurrir a su título. Fígaro, barbero y experto en soluciones, organiza una sucesión de disfraces para burlar al tutor Bartolo.",
+    "characters": "Rosina, mezzosoprano habitualmente; Almaviva, tenor; Fígaro, barítono; Bartolo, bajo bufo; Basilio, bajo.",
+    "listen": "Los crescendos acumulan energía hasta que el orden se desborda. Esta historia sucede antes que Las bodas de Fígaro, aunque Rossini la compuso treinta años después de Mozart.",
+    "arias": [
+      {
+        "title": "Largo al factotum",
+        "note": "La entrada de Fígaro y su inagotable inventario de tareas."
+      },
+      {
+        "title": "Una voce poco fa",
+        "note": "Rosina muestra que sabe perfectamente lo que quiere."
+      },
+      {
+        "title": "La calunnia",
+        "note": "Basilio explica cómo un rumor se transforma en una tormenta."
+      }
+    ],
+    "video": "5tExGp0pi0Y",
+    "videoTitle": "Largo al factotum · Leo Nucci / Giuseppe Patanè",
+    "videoType": "Audio oficial · Universal Music Group",
+    "cast": "Teresa Berganza · Luigi Alva · Hermann Prey",
+    "recording": "Claudio Abbado · London Symphony Orchestra · Deutsche Grammophon",
+    "recommendation": "Una elección de gran claridad y ligereza: Berganza combina elegancia y picardía; Abbado mantiene el movimiento de los conjuntos sin tapar las voces.",
+    "recordUrl": "https://www.deutschegrammophon.com/en/catalogue/products/rossini-il-barbiere-abbado-1873",
+    "source": "https://www.houstongrandopera.org/backstage-pass/el-barbero-de-sevilla-de-rossini-los-5-mejores-momentos-musicales",
+    "sourceTitle": "Houston Grand Opera · cinco momentos",
+    "ending": "Almaviva revela su identidad y se casa con Rosina. Bartolo acepta la situación cuando descubre que conservará la dote.",
+    "color": "gold",
+    "number": "08",
+    "day": "19",
+    "month": "JUL",
+    "year": "2027",
+    "performance": {
+      "url": "https://www.teatroreal.es/es/espectaculo/barbero-sevilla",
+      "functionsUrl": "https://www.teatroreal.es/es/espectaculo/barbero-sevilla#misfunciones:~:text=19%20julio%202027",
+      "dateLabel": "19 julio 2027",
+      "time": "19:30",
+      "venue": "Teatro Real · Madrid",
+      "hall": "Sala Principal",
+      "subscription": "Abonos D",
+      "cast": [
+        {
+          "role": "El Conde de Almaviva",
+          "name": "Pietro Adaini",
+          "url": "https://www.teatroreal.es/es/artista/pietro-adaini"
+        },
+        {
+          "role": "Bartolo",
+          "name": "Nicola Alaimo",
+          "url": "https://www.teatroreal.es/es/artista/nicola-alaimo"
+        },
+        {
+          "role": "Rosina",
+          "name": "Isabel Leonard",
+          "url": "https://www.teatroreal.es/es/artista/isabel-leonard"
+        },
+        {
+          "role": "Figaro",
+          "name": "Florian Sempey",
+          "url": "https://www.teatroreal.es/es/artista/florian-sempey"
+        },
+        {
+          "role": "Don Basilio",
+          "name": "Maharram Huseynov",
+          "url": "https://www.teatroreal.es/es/artista/maharram-huseynov"
+        },
+        {
+          "role": "Fiorello",
+          "name": "Josep-Ramón Olivé",
+          "url": "https://www.teatroreal.es/es/artista/josep-ramon-olive"
+        },
+        {
+          "role": "Berta",
+          "name": "Lauren Randolph",
+          "url": "https://www.teatroreal.es/es/artista/lauren-randolph"
+        }
+      ],
+      "staff": [
+        {
+          "role": "Dirección musical",
+          "name": "Giacomo Sagripanti",
+          "url": "https://www.teatroreal.es/es/artista/giacomo-sagripanti"
+        },
+        {
+          "role": "Dirección de escena",
+          "name": "Damiano Michieletto",
+          "url": "https://www.teatroreal.es/es/artista/damiano-michieletto"
+        },
+        {
+          "role": "Escenógrafo",
+          "name": "Paolo Fantin",
+          "url": "https://www.teatroreal.es/es/artista/paolo-fantin"
+        },
+        {
+          "role": "Vestuario",
+          "name": "Silvia Aymonino",
+          "url": "https://www.teatroreal.es/es/artista/silvia-aymonino"
+        },
+        {
+          "role": "Iluminación",
+          "name": "Fabio Barettin",
+          "url": "https://www.teatroreal.es/es/artista/fabio-barettin"
+        },
+        {
+          "role": "Dirección del coro",
+          "name": "José Luis Basso",
+          "url": "https://www.teatroreal.es/es/artista/jose-luis-basso"
+        }
+      ],
+      "ticketUrl": null,
+      "programs": [],
+      "checked": "11 de noviembre de 2026",
+      "conductor": "Giacomo Sagripanti",
+      "kind": "Producción escénica",
+      "production": "Producción de la Opéra national de Paris, presentada por primera vez en el Real.",
+      "staging": "Damiano Michieletto mueve los enredos alrededor de la fachada giratoria de un bloque de apartamentos.",
+      "duration": null,
+      "timing": [],
+      "notice": "El 19 de julio corresponde al reparto de Isabel Leonard, Pietro Adaini y Florian Sempey.",
+      "highlight": "Isabel Leonard · Pietro Adaini · Florian Sempey",
+      "conductorUrl": "https://www.teatroreal.es/es/artista/giacomo-sagripanti",
+      "featuredArtists": [
+        {
+          "role": "Rosina",
+          "name": "Isabel Leonard",
+          "url": "https://www.teatroreal.es/es/artista/isabel-leonard",
+          "voice": "Mezzosoprano",
+          "bio": "Nacida en Nueva York y formada en Juilliard, debutó en el Metropolitan como Stéphano en 2007. Ha interpretado Rosina también en ese teatro.",
+          "bioUrl": "https://www.operadeparis.fr/en/artists/isabel-leonard",
+          "bioSource": "Opéra national de Paris · biografía"
+        },
+        {
+          "role": "Figaro",
+          "name": "Florian Sempey",
+          "url": "https://www.teatroreal.es/es/artista/florian-sempey",
+          "voice": "Barítono",
+          "bio": "El barítono francés ha llevado Fígaro a París, Londres, Pésaro, Roma y Tokio. En el Teatro Real participó en La Cenerentola en 2021.",
+          "bioUrl": "https://www.teatroreal.es/es/artista/florian-sempey",
+          "bioSource": "Teatro Real · biografía"
+        }
+      ]
+    }
+  }
+]
